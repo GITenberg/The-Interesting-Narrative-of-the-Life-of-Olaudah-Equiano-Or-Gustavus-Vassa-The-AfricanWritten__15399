@@ -1,0 +1,46 @@
+_repo: The-Interesting-Narrative-of-the-Life-of-Olaudah-Equiano-Or-Gustavus-Vassa-The-AfricanWritten__15399
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Equiano, Olaudah
+    birthdate: 1745
+    deathdate: 1797
+    gutenberg_agent_id: '6034'
+    url: http://www.gutenberg.org/2009/agents/6034
+    wikipedia: http://en.wikipedia.org/wiki/Olaudah_Equiano
+description: "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus\
+  \ Vassa, The African, first published in 1789 in London, is the autobiography of\
+  \ Olaudah Equiano. The narrative is argued to be a variety of styles, such as a\
+  \ slavery narrative, travel narrative, and spiritual narrative. The book describes\
+  \ Equiano's time spent in enslavement, and documents his attempts at becoming an\
+  \ independent man through his study of the Bible, and his eventual success in gaining\
+  \ his own freedom and in business thereafter.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2005-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15399'
+  wikidata: Q7742270
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slaves -- Great Britain -- Biography'
+- !lcsh 'Equiano, Olaudah, 1745-1797'
+- !lcsh 'Slaves -- United States -- Biography'
+- !lcc 'HT'
+title: 'The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa,
+  The African
+
+  Written By Himself'
+url: http://www.gutenberg.org/ebooks/15399
+wikipedia:
+- https://simple.wikipedia.org/wiki/The_Interesting_Narrative_of_the_Life_of_Olaudah_Equiano
+- https://en.wikisource.org/wiki/The_Interesting_Narrative_of_the_Life_of_Olaudah_Equiano,_or_Gustavus_Vassa,_the_African
+- https://en.wikipedia.org/wiki/The_Interesting_Narrative_of_the_Life_of_Olaudah_Equiano
+- https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E4%BA%BA%E3%80%81%E3%82%A4%E3%82%AF%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%8E%E3%81%AE%E7%94%9F%E6%B6%AF%E3%81%AE%E8%88%88%E5%91%B3%E6%B7%B1%E3%81%84%E7%89%A9%E8%AA%9E
+- https://la.wikipedia.org/wiki/The_Interesting_Narrative
